@@ -63,6 +63,10 @@ Triggers a browser file download.
 - Fixed Courier font (no font selection)
 - US Letter only (no A4 option)
 
+## Origin
+
+Extracted from [seaofglass.ink](https://seaofglass.ink), where it powers paste-to-PDF export.
+
 ## License
 
 MIT
